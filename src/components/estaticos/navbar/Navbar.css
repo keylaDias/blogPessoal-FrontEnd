@@ -11,3 +11,7 @@
 .text-decorator-none{
     text-decoration: none;
 }
+
+.navBar{
+    background-color: hsl(172, 48%, 48%);
+}
