@@ -1,5 +1,6 @@
 .caixa{
     background-color: #b53f983d;
+    background: linear-gradient(36deg, #ffffff90 8%, #31303090 80%)!important;
 }
 
 .titulo{
@@ -16,6 +17,8 @@
 .postagens{
     background-color: rgba(46, 223, 179, 0.795);
 }
+
+
 
 .text-decorator-none{
     text-decoration: none;

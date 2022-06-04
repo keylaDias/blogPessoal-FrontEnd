@@ -14,7 +14,13 @@
 .text-decorator-none{
     text-decoration: none;
 }
-.fundo{
-    background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+
+.caixaLogin {
+    background-color: white;
+    border-radius: 25px;
+    background: linear-gradient(36deg, #db7bd6 8%, #acaaac96 80%)!important;
+}
+.botaoLogar{
+    color:#db7bd6;
 }
